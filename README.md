@@ -1,6 +1,6 @@
 # Introduction to Markdown – PI I Senac 2020
 
-This readme file is intended to exemplify the possibilities the *markdown language* gives us. The text makes no sense whatsoever so don't try to understand why is going on. It is just a demonstration of what you can do with this language. We will start listing some subjects:
+This readme file is intended to exemplify the possibilities the *markdown language* gives us. The text makes no sense whatsoever so don't try to understand what is going on. It is just a demonstration of what you can do with this language. We will start listing some subjects:
 
 * Subject 1
 * Subject 2
