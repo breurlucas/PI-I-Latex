@@ -48,5 +48,3 @@ Reason why tables are fun:
   * Yes  
 
 End of sub-sub-chapter on tables
-
-## Image Chapter
